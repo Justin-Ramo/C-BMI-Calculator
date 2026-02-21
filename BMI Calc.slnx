@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BMI Calc/BMI Calc.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
